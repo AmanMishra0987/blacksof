@@ -1,0 +1,30 @@
+.custom-pb{
+    padding-bottom: 270px;
+}
+@media screen and (max-width:376px){
+    #id1{
+       position: absolute;
+       top: 966px;
+       right: -12px;
+       padding: 0 !important;
+    }
+    .eco{
+        margin:0px !important;
+    }
+    .inners{
+        position: absolute;
+        right: 100px;
+       top: 1170px; 
+       padding: 0 !important;
+    }
+    .use{
+        position: absolute;
+        right:0px;
+        top: 1376px;
+        padding: 0 !important;
+    }
+    .total{
+        height: 800px;
+        padding-left: 20px;
+    }
+}

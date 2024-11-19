@@ -1,0 +1,23 @@
+@media screen and (max-width:376px){
+    #pro1{
+        margin: 0 !important;
+        padding-left: 20px !important;
+    }
+    .pro{
+        display: block !important;
+    }
+    .pro img{
+        width: 335px !important;
+    }
+    #title{
+        width: 300px !important;
+    }
+    #title a img{
+        width: 40px;
+        height: 40px;
+    }
+    .pro button{
+        padding: 0 !important;
+       gap: 20px !important;
+    }
+}

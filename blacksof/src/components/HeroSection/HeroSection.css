@@ -1,0 +1,8 @@
+@media screen and (max-width:575px){
+    .text-center{
+        width: 300px !important;
+    }
+    .hero img{
+        height: 350px !important;
+    }
+}
